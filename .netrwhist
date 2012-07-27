@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/firstmedia/Documents/workspace/QuestChat-App---Android'
+let g:netrw_dirhist_2='/Users/firstmedia/Documents/workspace/questchat_android'
+let g:netrw_dirhist_3='/Volumes/LampVM/www/ihub2'
+let g:netrw_dirhist_4='/Volumes/LampVM/www/ihub2_cupid'
+let g:netrw_dirhist_5='/Volumes/LampVM/www/ihub2'
+let g:netrw_dirhist_6='/Users/firstmedia/Documents/workspace/questchat_android'
+let g:netrw_dirhist_7='/Volumes/LampVM/www/ihub2'
+let g:netrw_dirhist_8='/Users/firstmedia/Documents/workspace/questchat_android'
